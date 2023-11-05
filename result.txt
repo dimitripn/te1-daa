@@ -1,0 +1,61 @@
+Execution time untuk file smallSortedNumber.txt dengan algoritma peeksort adalah 6.18419999955222 ms
+Traced Memory (Current, Peak): (92385, 112449)
+
+Execution time untuk file smallSortedNumber.txt dengan algoritma radixsort adalah 12.94629997573793 ms
+Traced Memory (Current, Peak): (91557, 100017)
+
+
+Execution time untuk file smallRandomNumber.txt dengan algoritma peeksort adalah 7.969700003741309 ms
+Traced Memory (Current, Peak): (91657, 108905)
+
+Execution time untuk file smallRandomNumber.txt dengan algoritma radixsort adalah 15.992300002835691 ms
+Traced Memory (Current, Peak): (91557, 100017)
+
+
+Execution time untuk file smallReversedNumber.txt dengan algoritma peeksort adalah 7.51759999548085 ms
+Traced Memory (Current, Peak): (91605, 111669)
+
+Execution time untuk file smallReversedNumber.txt dengan algoritma radixsort adalah 13.924600003520027 ms
+Traced Memory (Current, Peak): (91557, 100049)
+
+
+Execution time untuk file mediumSortedNumber.txt dengan algoritma peeksort adalah 108.98759998963214 ms
+Traced Memory (Current, Peak): (982882, 1182938)
+
+Execution time untuk file mediumSortedNumber.txt dengan algoritma radixsort adalah 294.6536999952514 ms
+Traced Memory (Current, Peak): (982388, 1062960)
+
+
+Execution time untuk file mediumRandomNumber.txt dengan algoritma peeksort adalah 155.83450000849552 ms
+Traced Memory (Current, Peak): (982434, 1151330)
+
+Execution time untuk file mediumRandomNumber.txt dengan algoritma radixsort adalah 305.21700001554564 ms
+Traced Memory (Current, Peak): (982388, 1062960)
+
+
+Execution time untuk file mediumReversedNumber.txt dengan algoritma peeksort adalah 101.40580000006594 ms
+Traced Memory (Current, Peak): (982438, 1182502)
+
+Execution time untuk file mediumReversedNumber.txt dengan algoritma radixsort adalah 293.7990000064019 ms
+Traced Memory (Current, Peak): (982388, 1062960)
+
+
+Execution time untuk file largeSortedNumber.txt dengan algoritma peeksort adalah 1290.0013999897055 ms
+Traced Memory (Current, Peak): (9884489, 11884553)
+
+Execution time untuk file largeSortedNumber.txt dengan algoritma radixsort adalah 3854.8318999819458 ms
+Traced Memory (Current, Peak): (9884109, 10684681)
+
+
+Execution time untuk file largeRandomNumber.txt dengan algoritma peeksort adalah 2408.049599995138 ms
+Traced Memory (Current, Peak): (9884153, 11610969)
+
+Execution time untuk file largeRandomNumber.txt dengan algoritma radixsort adalah 4065.9459000162315 ms
+Traced Memory (Current, Peak): (9884109, 10684681)
+
+
+Execution time untuk file largeReversedNumber.txt dengan algoritma peeksort adalah 1317.6563000015449 ms
+Traced Memory (Current, Peak): (9884157, 11884221)
+
+Execution time untuk file largeReversedNumber.txt dengan algoritma radixsort adalah 3888.3321000030264 ms
+Traced Memory (Current, Peak): (9884109, 10684681)
